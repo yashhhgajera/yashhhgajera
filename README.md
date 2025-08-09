@@ -4,12 +4,8 @@
 
 <!-- Animated typing banner (replace YOUR_GITHUB_USERNAME if needed) -->
 
-![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&pause=1000\&color=5796ff\&center=true\&width=800\&lines=Building+reliable+backends+%7C+Data+pipelines+%7C+ML+workflows)
+![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&pause=1000\&color=5796ff\&center=true\&width=800\&lines=---Building+reliable+backends+%7C+Data+pipelines+%7C+ML+workflows)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashhhgajera\&layout=compact)](https://github.com/yashhhgajera)
-[![Stats](https://github-readme-stats.vercel.app/api?username=yashhhgajera\&show_icons=true\&count_private=true)](https://github.com/yashhhgajera)
-
----
 
 ## About
 
