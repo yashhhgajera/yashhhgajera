@@ -4,7 +4,7 @@
 
 <!-- Animated typing banner (replace YOUR_GITHUB_USERNAME if needed) -->
 
-![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&pause=1000\&color=5796ff\&center=true\&width=800\&lines=---Building+reliable+backends+%7C+Data+pipelines)
+![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&pause=1000\&color=5796ff\&center=true\&width=800\&lines=Building+reliable+backends+%7C+Data+pipelines)
 
 
 ## About
